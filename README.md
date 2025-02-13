@@ -1,4 +1,4 @@
-**Espero que esto sea legible porque GitHub es más complicado de lo que pensaba**
+**Espero que esto sea legible**
 1. Generació d'imatges
 
 No puedo subir el modelo en sí porque pesa demasiado, aquí la idea sería partir de generador.py y adaptar el código de manera que se pueda ejecutar constantemente en el clúster HPC. Cada vez que se genera una imagen, esta debería poder verse en el display de la exposición.
