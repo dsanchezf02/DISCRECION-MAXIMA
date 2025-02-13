@@ -1,0 +1,6 @@
+diffusers
+git+https://github.com/huggingface/diffusers
+accelerate
+torchvision
+datasets
+tensorboard
