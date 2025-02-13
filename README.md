@@ -10,5 +10,6 @@ La idea sería tener una GUI que realice las dos funciones de manera paralela y 
 
 5. Bot IRC
 
-El código de esta parte me lo facilitó Alan Tapscott, tal y como está configurado se conecta con un servidor de IRC y envía el contenido del
-archivo privateSentenceList.txt como un mensaje cada vez que la función del generador de texto lo actualiza.
+El código de esta parte me lo facilitó Alan Tapscott, tal y como está configurado se conecta con un servidor de IRC y envía el contenido del archivo privateSentenceList.txt como un mensaje cada vez que la función del generador de texto lo actualiza.
+
+Si tienes cualquier duda o necesitas algún archivo que no haya subido para hacer la prueba dímelo, muchas gracias!!
